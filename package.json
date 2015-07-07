@@ -17,7 +17,7 @@
   "preferGlobal": false,
   "main": "./bin/filesearch.js",
   "bin": {
-    "tsc": "./bin/tsc"
+    "filesearch": "./dist/Main.js"
   },
   "engines": {
     "node": ">=0.8.0"
